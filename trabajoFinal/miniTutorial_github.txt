@@ -1,0 +1,20 @@
+
+Copiar local el repositorio en la compu
+git clone https://[url]
+
+
+Actualiza con el repositorio de github
+git pull 
+
+
+Modificar el repositorio
+git commit -a -m "motivo de la modificacion"
+git push
+
+
+Poner archivos nuevos en github
+git add .  (agrega todos con directorios)
+git add nombre_archivo   (agrega un solo archivo)
+
+
+Siempre hacer un pull antes de un push
